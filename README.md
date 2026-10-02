@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repository](https://github.com/shubhamadak535/Blog-preview-card-solution)
+- Live Site URL: [github pages](https://shubhamadak535.github.io/Blog-preview-card-solution/)
 
 ## My process
 
@@ -48,4 +48,4 @@ Users should be able to:
 
 ### Continued development
 
-- Try mobile first approach for development.
+- Try mobile first approach of development.
